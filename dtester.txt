@@ -1,0 +1,8 @@
+
+d-tester
+MySQL / Maria DB
+NGINX
+---
+Apache HTTP + PHP FPM
+
+Andrii Kozak
